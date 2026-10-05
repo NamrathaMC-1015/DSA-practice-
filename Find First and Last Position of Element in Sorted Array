@@ -1,4 +1,4 @@
-Leetcode - Q 34.
+Leetcode - Q 34.Find First and Last Position of Element in Sorted Array
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().
